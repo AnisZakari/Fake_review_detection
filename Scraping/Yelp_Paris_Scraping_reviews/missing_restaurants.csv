@@ -1,0 +1,154 @@
+,link_to_restaurant,restaurant_name,category,review_count
+0,https://www.yelp.fr/biz/restaurant-sichuan-paris,Restaurant Sichuan,Chinois,2
+1,https://www.yelp.fr/biz/chez-cay-paris,Chez Cay,Chinois,28
+2,https://www.yelp.fr/biz/obao-paris,Obao,Chinois,3
+3,https://www.yelp.fr/biz/le-comptoir-de-la-cr%C3%AApe-clichy,Le Comptoir de la Crêpe,Crêperies,1
+4,https://www.yelp.fr/biz/rozell-caf%C3%A9-paris,Rozell Café,Crêperies,12
+5,https://www.yelp.fr/biz/oh-regalade-paris,Oh! Regalade,Crêperies,7
+6,https://www.yelp.fr/biz/palais-cristal-paris-4,Palais Cristal,Dim Sum,1
+7,https://www.yelp.fr/biz/thym-thym-paris,Thym-Thym,Falafel,2
+8,https://www.yelp.fr/biz/kebab-paris-3,Kebab,Falafel,1
+9,https://www.yelp.fr/biz/les-quidams-paris,Les Quidams,Bistrot,1
+10,https://www.yelp.fr/biz/caf%C3%A9-plume-paris-2,Café Plume,Brasseries,16
+11,https://www.yelp.fr/biz/le-choupinet-paris,Le Choupinet,Brasseries,7
+12,https://www.yelp.fr/biz/caf%C3%A9-la-colonnade-paris-2,Café La Colonnade,Brasseries,17
+13,https://www.yelp.fr/biz/le-ju-paris,Le Ju’,Brasseries,7
+14,https://www.yelp.fr/biz/le-saint-%C3%B4-paris,Le Saint Ô,Brasseries,1
+15,https://www.yelp.fr/biz/le-prince-racine-paris,Le Prince Racine,Brasseries,6
+16,https://www.yelp.fr/biz/l-aligot-paris,L’Aligot,Auvergnat,8
+17,https://www.yelp.fr/biz/le-cantal-15-paris,Le Cantal 15,Auvergnat,1
+18,https://www.yelp.fr/biz/antalya-paris-3,Antalya,BBQ & Grillades,1
+19,https://www.yelp.fr/biz/buns-paris-3,Buns,Burger,1
+20,https://www.yelp.fr/biz/bagel-burger-bar-paris,Bagel Burger Bar,Burger,1
+21,https://www.yelp.fr/biz/pny-voyager-paris-new-york-paris,PNY Voyager - Paris New York,Burger,1
+22,https://www.yelp.fr/biz/bao-burger-paris,Bao Burger,Burger,3
+23,https://www.yelp.fr/biz/burger-n-juice-paris-2,Burger N Juice,Burger,1
+24,https://www.yelp.fr/biz/birdy-paris,Birdy,Burger,6
+25,https://www.yelp.fr/biz/la-cr%C3%AAperie-paris-12,la crêperie,Crêperies,71
+26,https://www.yelp.fr/biz/cr%C3%AAperie-des-p%C3%AAcheurs-paris-4,Crêperie des Pêcheurs,Crêperies,2
+27,https://www.yelp.fr/biz/maison-belleguic-paris,Maison Belleguic,Crêperies,1
+28,https://www.yelp.fr/biz/les-docks-13-14-paris,Les Docks 13/14,Crêperies,2
+29,https://www.yelp.fr/biz/creps-crew-paris,Crep’s Crew,Crêperies,17
+30,https://www.yelp.fr/biz/happy-caff%C3%A9-paris-2,Happy Caffé,Crêperies,54
+31,https://www.yelp.fr/biz/mongkok-paris,Mongkok,Cantonais,1
+32,https://www.yelp.fr/biz/occo-chicken-paris,Occo Chicken,Poulet,2
+33,https://www.yelp.fr/biz/tran-tran-zai-paris,Tran Tran Zai,Chinois,3
+34,https://www.yelp.fr/biz/1995-paris-3,1995,Chinois,1
+35,https://www.yelp.fr/biz/le-shangha%C3%AF-hang-zhou-paris,Le Shanghaï Hang-Zhou,Chinois,6
+36,https://www.yelp.fr/biz/l-accolade-paris-3,L’Accolade,Bistrot,1
+37,https://www.yelp.fr/biz/le-caf%C3%A9-de-la-mairie-paris,Le Café de la Mairie,Bistrot,4
+38,https://www.yelp.fr/biz/le-trois-quart-paris,Le Trois-Quart,Bistrot,2
+39,https://www.yelp.fr/biz/le-zinc-du-16-paris,Le Zinc du 16,Bistrot,2
+40,https://www.yelp.fr/biz/culture-cr%C3%AApes-paris,Culture Crêpes,Crêperies,30
+41,https://www.yelp.fr/biz/nadia-paris,Nadia,Crêperies,8
+42,https://www.yelp.fr/biz/tu-fais-ta-cr%C3%AApe-paris-2,Tu Fais ta Crêpe,Crêperies,2
+43,https://www.yelp.fr/biz/oyez-p-axoa-paris,Oyez...! P’axoa,Basque,2
+44,https://www.yelp.fr/biz/fulano-paris,Fulano,Argentin,1
+45,https://www.yelp.fr/biz/unico-paris-4,Unico,Argentin,2
+46,https://www.yelp.fr/biz/signature-montmartre-paris-2,Signature Montmartre,Cuisine fusion asiatique,13
+47,https://www.yelp.fr/biz/coin-op-table-paris,Coin-Op Table,Cuisine fusion asiatique,4
+48,https://www.yelp.fr/biz/baoli-bao-paris-3,Baoli Bao,Cuisine fusion asiatique,1
+49,https://www.yelp.fr/biz/la-bibimerie-restaurant-cor%C3%A9en-paris,La Bibimerie - Restaurant Coréen,Cuisine fusion asiatique,2
+50,https://www.yelp.fr/biz/frenchytaste-paris,FrenchyTaste,Cuisine fusion asiatique,3
+51,https://www.yelp.fr/biz/healing-paris,Healing,Cafés,2
+52,https://www.yelp.fr/biz/oh-de-lally-paris,Oh de Lally,Cafés,1
+53,https://www.yelp.fr/biz/le-pr%C3%A9-paris-2,Le Pré,Cafés,3
+54,https://www.yelp.fr/biz/grand-bay-caf%C3%A9-paris,Grand Bay Café,Cafés,4
+55,https://www.yelp.fr/biz/les-d%C3%A9lices-du-fournil-paris-4,Les Délices du Fournil,Cafés,48
+56,https://www.yelp.fr/biz/restaurant-apollo-roissy-en-france,Restaurant Apollo,Buffet,2
+57,https://www.yelp.fr/biz/meating-corner-paris,Meating Corner,Burger,1
+58,https://www.yelp.fr/biz/le-tub-paris,Le TUB,Burger,1
+59,https://www.yelp.fr/biz/mc-pepper-paris,MC Pepper,Burger,1
+60,https://www.yelp.fr/biz/b-et-m-paris-4,B&M,Burger,9
+61,https://www.yelp.fr/biz/le-continent-paris,Le Continent,Cuisine africaine,1
+62,https://www.yelp.fr/biz/yankey-paris-3,Yankey,Cuisine africaine,1
+63,https://www.yelp.fr/biz/green-mambo-montreuil,Green Mambo,Cuisine africaine,1
+64,https://www.yelp.fr/biz/l-alsacien-paris,L’Alsacien,Alsacien,66
+65,https://www.yelp.fr/biz/au-bretzel-paris,Au Bretzel,Alsacien,24
+66,https://www.yelp.fr/biz/le-ballon-d-alsace-courbevoie,Le Ballon d’Alsace,Alsacien,1
+67,https://www.yelp.fr/biz/petit-bofinger-bastille-paris-2,Petit Bofinger - Bastille,Alsacien,17
+68,https://www.yelp.fr/biz/brasserie-bofinger-paris,Brasserie Bofinger,Alsacien,233
+69,https://www.yelp.fr/biz/flams-paris-5,Flam’s,Alsacien,79
+70,https://www.yelp.fr/biz/la-compagnie-des-cr%C3%AApes-paris-4,La Compagnie des Crêpes,Alsacien,80
+71,https://www.yelp.fr/biz/mama-jackson-paris-2,Mama Jackson,Américain traditionnel ,34
+72,https://www.yelp.fr/biz/blend-paris-29,Blend,Américain traditionnel ,1
+73,https://www.yelp.fr/biz/melt-oberkampf-paris-4,MELT OBERKAMPF,Américain traditionnel ,30
+74,https://www.yelp.fr/biz/gumbo-yaya-paris,Gumbo Yaya,Américain traditionnel ,65
+75,https://www.yelp.fr/biz/blend-paris-26,Blend,Américain traditionnel ,240
+76,https://www.yelp.fr/biz/the-beast-paris,The Beast,Américain traditionnel ,86
+77,https://www.yelp.fr/biz/frog-revolution-paris,Frog Revolution,Américain traditionnel ,58
+78,https://www.yelp.fr/biz/schwartzs-deli-paris-5,Schwartz’s Deli,Américain traditionnel ,51
+79,https://www.yelp.fr/biz/231-east-street-paris-5,231 East Street,Américain traditionnel ,12
+80,https://www.yelp.fr/biz/brooklyn-caf%C3%A9-paris,Brooklyn Café,Américain traditionnel ,34
+81,https://www.yelp.fr/biz/shiso-burger-paris-2,Shiso Burger,Américain traditionnel ,86
+82,https://www.yelp.fr/biz/harpers-paris-21,Harper’s,Américain traditionnel ,12
+83,https://www.yelp.fr/biz/231-east-street-paris-6,231 East Street,Américain traditionnel ,51
+84,https://www.yelp.fr/biz/the-great-canadian-paris,The Great Canadian,Américain traditionnel ,92
+85,https://www.yelp.fr/biz/joe-burger-paris,Joe Burger,Américain traditionnel ,5
+86,https://www.yelp.fr/biz/joe-allen-paris,Joe Allen,Américain traditionnel ,151
+87,https://www.yelp.fr/biz/savannah-coffee-paris,Savannah Coffee,Américain traditionnel ,34
+88,https://www.yelp.fr/biz/dr-feelgood-les-halles-paris,Dr Feelgood Les Halles,Américain traditionnel ,2
+89,https://www.yelp.fr/biz/h-a-n-d-paris-2,H.A.N.D,Américain traditionnel ,136
+90,https://www.yelp.fr/biz/marcel-paris-5,Marcel,Américain traditionnel ,8
+91,https://www.yelp.fr/biz/the-frog-et-underground-paris,The Frog & Underground,Américain traditionnel ,37
+92,https://www.yelp.fr/biz/lilis-brownies-paris-2,Lili’s Brownies,Américain traditionnel ,26
+93,https://www.yelp.fr/biz/bagels-and-brownies-paris,Bagels and Brownies,Américain traditionnel ,57
+94,https://www.yelp.fr/biz/la-factory-issy-les-moulineaux,La Factory,Américain traditionnel ,6
+95,https://www.yelp.fr/biz/chibbys-diner-paris,Chibby’s Diner,Américain traditionnel ,98
+96,https://www.yelp.fr/biz/the-grilled-cheese-factory-paris,The Grilled Cheese Factory,Américain traditionnel ,68
+97,https://www.yelp.fr/biz/cantine-california-paris,Cantine California,Américain traditionnel ,45
+98,https://www.yelp.fr/biz/mamie-burger-paris,Mamie Burger,Américain traditionnel ,68
+99,https://www.yelp.fr/biz/garnett-paris,Garnett,Américain traditionnel ,11
+100,https://www.yelp.fr/biz/ap%C3%A9rock-paris-2,ApéRock,Américain traditionnel ,4
+101,https://www.yelp.fr/biz/paperboy-paris,Paperboy,Américain traditionnel ,92
+102,https://www.yelp.fr/biz/little-apple-paris,Little Apple,Américain traditionnel ,13
+103,https://www.yelp.fr/biz/cheesers-paris,Cheesers,Américain traditionnel ,4
+104,https://www.yelp.fr/biz/pret-a-manger-paris-15,Pret A Manger,Petit déjeuner & brunch,3
+105,https://www.yelp.fr/biz/cuppa-paris,Cuppa,Petit déjeuner & brunch,16
+106,https://www.yelp.fr/biz/sunny-paris,Sunny,Petit déjeuner & brunch,3
+107,https://www.yelp.fr/biz/fluctuart-paris,Fluctuart,Petit déjeuner & brunch,1
+108,https://www.yelp.fr/biz/caf%C3%A9-blanc-paris-7,Café Blanc,Petit déjeuner & brunch,32
+109,https://www.yelp.fr/biz/culott%C3%A9e-paris,Culottée,Petit déjeuner & brunch,1
+110,https://www.yelp.fr/biz/cerealiste-paris-4,Cerealiste,Petit déjeuner & brunch,2
+111,https://www.yelp.fr/biz/caf%C3%A9-pavane-paris,Café Pavane,Petit déjeuner & brunch,1
+112,https://www.yelp.fr/biz/46-et-3rd-paris-2,46 & 3rd,Petit déjeuner & brunch,4
+113,https://www.yelp.fr/biz/le-forty-one-paris,Le Forty-One,Brasseries,1
+114,https://www.yelp.fr/biz/chez-clara-paris,Chez Clara,Brasseries,2
+115,https://www.yelp.fr/biz/n-et-c-brasserie-paris,N & C Brasserie,Brasseries,1
+116,https://www.yelp.fr/biz/limon-paris,Limon,Brasseries,1
+117,https://www.yelp.fr/biz/la-cantine-de-gaston-paris,La Cantine de Gaston,Bistrot,1
+118,https://www.yelp.fr/biz/lucien-paris-3,Lucien,Bistrot,2
+119,https://www.yelp.fr/biz/de-voltaire-%C3%A0-rousseau-paris-2,De Voltaire à Rousseau,Bistrot,1
+120,https://www.yelp.fr/biz/la-bulle-parisienne-paris,La Bulle Parisienne,Bistrot,3
+121,https://www.yelp.fr/biz/bistro-ernest-paris,Bistro Ernest,Bistrot,8
+122,https://www.yelp.fr/biz/tradi-paris,Tradi,Bistrot,8
+123,https://www.yelp.fr/biz/la-haute-cloche-paris,La Haute Cloche,Bistrot,5
+124,https://www.yelp.fr/biz/le-bistrot-de-mauna-loa-paris,Le Bistrot de Mauna Loa,Bistrot,1
+125,https://www.yelp.fr/biz/racines-des-pr%C3%A9s-paris-2,Racines des Prés,Bistrot,6
+126,https://www.yelp.fr/biz/mineirinho-bar-paris,Mineirinho Bar,Brésilien,1
+127,https://www.yelp.fr/biz/porta-da-selva-paris-3,Porta da Selva,Brésilien,1
+128,https://www.yelp.fr/biz/glozaria-paris,Glozaria,Brésilien,1
+129,https://www.yelp.fr/biz/p%C3%A2tisserie-emma-duv%C3%A9r%C3%A9-paris-4,Pâtisserie Emma Duvéré,Petit déjeuner & brunch,1
+130,https://www.yelp.fr/biz/joe-et-the-juice-paris,Joe & The Juice,Petit déjeuner & brunch,1
+131,https://www.yelp.fr/biz/caf%C3%A9-boh%C3%A8me-paris-3,Café Bohème,Petit déjeuner & brunch,4
+132,https://www.yelp.fr/biz/treize-bakery-paris-paris,Treize Bakery Paris,Petit déjeuner & brunch,17
+133,https://www.yelp.fr/biz/papilles-coffeehouse-et-restaurant-paris-2,Papilles Coffeehouse & Restaurant,Petit déjeuner & brunch,4
+134,https://www.yelp.fr/biz/echo-paris-2,Echo,Petit déjeuner & brunch,7
+135,https://www.yelp.fr/biz/caf%C3%A9-de-la-poste-paris-14,Café de la Poste,Cafés,1
+136,https://www.yelp.fr/biz/caf%C3%A9s-richard-paris-2,Cafés Richard,Cafés,16
+137,https://www.yelp.fr/biz/osmoz-caf%C3%A9-paris,Osmoz Café,Cafés,2
+138,https://www.yelp.fr/biz/you-decide-coffee-paris,You Decide Coffee,Cafés,6
+139,https://www.yelp.fr/biz/le-marabout-paris,Le Marabout,Cuisine africaine,1
+140,https://www.yelp.fr/biz/les-d%C3%A9lices-du-sacr%C3%A9-coeur-paris,Les Délices du Sacré-Coeur,Cuisine africaine,4
+141,https://www.yelp.fr/biz/caf%C3%A9-cacao-aubervilliers-2,Café Cacao,Cuisine africaine,1
+142,https://www.yelp.fr/biz/restaurant-hoi-chang-paris,Restaurant Hoi Chang,Chinois,1
+143,https://www.yelp.fr/biz/nouilles-vivantes-paris,Nouilles Vivantes,Chinois,4
+144,https://www.yelp.fr/biz/pavillon-de-hang-chow-paris,Pavillon de Hang Chow,Chinois,14
+145,https://www.yelp.fr/biz/inavou%C3%A9-paris-4,Inavoué,Petit déjeuner & brunch,4
+146,https://www.yelp.fr/biz/zia-paris-paris-2,Zia Paris,Petit déjeuner & brunch,74
+147,https://www.yelp.fr/biz/tour-eiffel-buffets-paris,Tour Eiffel - Buffets,Buffet,2
+148,https://www.yelp.fr/biz/harpers-paris-19,Harper’s,Américain traditionnel ,1
+149,https://www.yelp.fr/biz/mama-jackson-paris-3,Mama Jackson,Américain traditionnel ,1
+150,https://www.yelp.fr/biz/bagel-chef-nanterre,Bagel Chef,Américain traditionnel ,1
+151,https://www.yelp.fr/biz/best-break-chevilly-larue,Best Break,Américain traditionnel ,1
+152,https://www.yelp.fr/biz/coney-island-dinner-paris,Coney Island Dinner,Américain traditionnel ,1
