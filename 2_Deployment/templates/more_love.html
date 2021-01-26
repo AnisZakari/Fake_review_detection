@@ -1,0 +1,9 @@
+{% extends "layout.html" %}
+{% block content %}
+<h1>Things I love:</h1>
+<ol>
+  {% for item in things_i_love%}
+  <li>{{ item }}</li>
+  {% endfor %}
+</ol>
+{% endblock %}
