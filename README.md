@@ -18,9 +18,22 @@ Moreover, fake reviews can be devastating for one's business:
 * Some quality products may be underrated while some low-quality products are being overrated which leads to an unfair competition.  
 
 ## Methodology
+### What is a Fake review ?
+### Why Yelp ?
 
-## Dataset
-Scrapping
+
+## Project Worflow
+* Scraping with Selenium
+* Dataset cleaning
+* Text cleaning
+* Feature Engineering (metadata)
+* Deal with Imabalanced dataset
+* Detection on text only using several ML models
+* Detection on metadata only using several ML models
+* Detection with mixed data model (text and metadata) with Deep Learning Neural Network 
+* Models Evaluation
+
+
 
 ## Models 
 
