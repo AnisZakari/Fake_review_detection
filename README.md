@@ -34,7 +34,10 @@ Moreover, fake reviews can be devastating for one's business:
 * Models Evaluation
 
 
+## Deployment 
 
+### App
+### Dashboard
 
 
 
