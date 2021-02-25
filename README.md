@@ -23,7 +23,7 @@ Moreover, fake reviews can be devastating for one's business:
 
 
 ## Project Worflow
-* Scraping with Selenium
+* Scraping Yelp with Selenium
 * Dataset cleaning
 * Text cleaning
 * Feature Engineering (metadata)
@@ -35,7 +35,6 @@ Moreover, fake reviews can be devastating for one's business:
 
 
 
-## Models 
 
 
 
