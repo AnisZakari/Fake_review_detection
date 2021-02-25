@@ -13,7 +13,7 @@ https://youtu.be/UypqiyFgkaw?t=2011
 ## Objective and Motivations
 The project aim's at creating a machine learning algorithm to detect french fake reviews on Yelp.fr.
 We wanted to base our study on french reviews as it has hardly been done so far in this language.
-Moreover, fake reviews can be devastating for one's business :
+Moreover, fake reviews can be devastating for one's business:
 * Customers who are misleaded won't trust a marketplace or a review site anymore. 
 * Some quality products may be underrated while some low-quality products are being overrated which leads to an unfair competition.  
 
