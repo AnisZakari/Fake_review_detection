@@ -23,7 +23,7 @@ Moreover, fake reviews can be devastating for one's business:
 
 ### Why Yelp ?
 Yelp is the only website we found that displays reviews and categize them publicly in two categories:
-* those which are  are estimated trushworthy
+* those which are  are estimated to be trushworthy
 * those which are not trusted.
 
 "Yelp’s recommendation software is constantly working to highlight the most reliable and helpful reviews. The automated software looks at hundreds of different signals, including various measures of quality, reliability, and user activity on Yelp."
