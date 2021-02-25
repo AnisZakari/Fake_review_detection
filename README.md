@@ -10,7 +10,7 @@ https://www.jedha.co/blog/detecter-faux-avis-reseaux-sociaux
 The video of our project presentation in French:
 https://youtu.be/UypqiyFgkaw?t=2011
 
-## Objective and motivations
+## Objective and Motivations
 The project aim's at creating a machine learning algorithm to detect french fake reviews on Yelp.fr.
 We wanted to base our study on french reviews as it has hardly been done so far in this language.
 Fake reviews can be devastating for one's business :
