@@ -24,20 +24,25 @@ Moreover, fake reviews can be devastating for one's business:
 
 ## Project Worflow
 * Scraping Yelp with Selenium
-* Dataset cleaning
-* Text cleaning
+* Cloud storage via Aws
+* Dataset and text cleaning
 * Feature Engineering (metadata)
 * Deal with Imabalanced dataset
 * Detection on text only using several ML models
 * Detection on metadata only using several ML models
 * Detection with mixed data model (text and metadata) with Deep Learning Neural Network 
 * Models Evaluation
-
+* Data visualization with a Power BI Dashboard
 
 ## Deployment 
 
 ### App
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://drive.google.com/file/d/1IJioa7t7Bg221TxkrTRSPG9ruv7RbK82/view?usp=sharing)
+
+
 ### Dashboard
+
+https://drive.google.com/file/d/1MSeauH8IsN2RFwZDhcgwFqbXpgX_Go4Y/view?usp=sharing
 
 
 
