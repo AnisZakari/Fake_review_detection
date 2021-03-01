@@ -1,0 +1,34 @@
+{% include "index.html" %}
+
+{% block prediction %}
+  <div>      
+             
+              <br>
+        {% if label == 0 : %}
+        <div class="alert alert-info"> 
+          <strong>Vraie ! </strong> {{ response }}
+        </div>
+        {% endif %}
+              <br>
+        {% if label == 1 : %}
+        <div class="alert alert-warning">
+          <strong>Fausse! </strong> {{ response }}
+        </div>
+        {% endif %}
+
+        {% if label == 'empty' : %}
+        <div class="alert alert-warning">
+          <strong>Erreur! </strong> {{ response }}
+        </div>
+        {% endif %}
+
+        {% if label != 'empty' : %}
+        <div class="review">
+          <strong> Review : </strong> {{ review }}
+        </div>  
+        {% endif %}
+    
+    </ul>
+  </div>
+{% endblock %}
+

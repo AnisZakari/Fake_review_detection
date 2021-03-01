@@ -1,0 +1,25 @@
+{% extends "layout.html" %}
+{% block content %}
+  <div>
+    <h1>Fake Review Detection</h1>
+    
+    <form action="" method="post" role="form">
+        <label for="name">Name:</label>
+      <input type="text" class="form-control" id="review" name="review" placeholder="Review à analyser" rows="3"></div>
+      
+      <label for="rating">Note de l'utilisateur:</label>
+      <input type="text" class="form-control" id="review" name="review" placeholder="Note de l'utilisateur" rows="3"></div>
+      
+      <button type="submit" class="btn btn-success">Submit</button>
+      <div class="form-group">
+    
+    </form>
+    <ul>
+        <li><a href="/dashboard">Check Out This Dashboard!</a>
+    </ul>
+  </div>
+{% endblock %}
+
+<body>
+  {% block prediction %}{% endblock %}
+</body>

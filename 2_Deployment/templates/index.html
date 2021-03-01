@@ -1,15 +1,112 @@
 {% extends "layout.html" %}
 {% block content %}
   <div>
-    <h1>Fake Review Detection</h1>
+    
 
-    <form method="POST">
-      <input name="text">
-      <input type="submit">
 
-  </form>
-    <ul>
-        <li><a href="/dashboard">Check Out This Dashboard!</a>
-    </ul>
+  <div class="container"> <br>
+      <div class="row align-items-center justify-content-center">
+      <div class="col-md-12">
+        <h2 class="text-muted"> Yelp Fake Review Detector</h2>
+        <h9 class="text-muted"> Anis Zakari - Naeem Amarsy</h9>
+
+        <a href="/dashboard"> | Explorez la Data avec notre Dashboard!</a> <br>
+        
+
+    <form  action="" method="post" role="form"> 
+   <div class="form-group">
+<div class="p-3 mb-2 bg-light text-dark">
+    <p class = "text-muted" for="email"><img src="/static/review.png" alt="alt text" width="20" height="20" style="float: left ">Avis :</p>
+        
+        <textarea type="text" class="form-control" id="name" name="review" placeholder="Review à analyser" rows="2"></textarea>
+</div>  
+<div class="p-3 mb-2 bg-light text-dark">
+ 
+        <p class = "text-muted" for="email"><img src="/static/user.png" alt="alt text" width="20" height="20" style="float: left ">Infos sur l'utilisateur :</p>
+        
+        <div class="row">
+
+          <div class="form-group col-md-4">
+            <label for="inputState">Note :</label>
+            <select name="rating" id="inputState" class="form-control form-control-sm">
+              <option selected>Choisir...</option>
+              <option value="1">1</option>
+              <option value="1.5">1.5</option>
+              <option value="2">2</option>
+              <option value="2.5">2.5</option>
+              <option value="3">3</option>
+              <option value="3.5">3.5</option>
+              <option value="4">4</option>
+              <option value="4.5">4.5</option>
+              <option value="5">5</option>
+            </select>
+          </div>
+
+          <div class="form-group col-md-3">
+            <label for="inputCity">Nombre total d'avis :</label>
+            <input name ="user_reviews_count" type="text" class="form-control form-control-sm" id="inputCity">
+          </div>
+
+          <div class="form-group col-md-2">
+            <label for="inputZip">Nombre d'amis :</label>
+            <input name="user_friends_count" type="text" class="form-control form-control-sm" id="inputZip">
+          </div>
+
+          <div class="form-group col-md-3">
+            <label for="inputState">Review avec photo(s) ? :</label>
+            <select name="photos_for_review" id="inputState" class="form-control form-control-sm">
+              <option selected>Choisir</option>
+              <option value="yes">Oui</option>
+              <option value="no">Non</option>
+            </select>
+          </div>
+
+
+        </div>
+</div>
+        
+<div class="p-3 mb-2 bg-light text-dark">
+        <p class = "text-muted" for="user_infos"><img src="/static/restaurant2.png" alt="alt text" width="20" height="20" style="float: left "> Infos sur le restaurant :</p>
+  
+        <div class="row">
+
+          <div class="form-group col-md-4">
+            <label for="inputState">Note moyenne du restaurant :</label>
+            <select name ="restaurant_average_rating" id="inputState" class="form-control form-control-sm">
+              <option selected>Choisir...</option>
+              <option value="1">1</option>
+              <option value="1.5">1.5</option>
+              <option value="2">2</option>
+              <option value="2.5">2.5</option>1</option>
+              <option value="3">3</option>
+              <option value="3.5">3.5</option>
+              <option value="4">4</option>
+              <option value="4.5">4.5</option>
+              <option value="5">5</option>
+            </select>
+          </div>
+
+
+          <div class="form-group col-md-3">
+            <label for="inputCity">Nombre total d'avis :</label>
+            <input name ="restaurant_reviews_count" type="text" class="form-control form-control-sm" id="inputCity">
+          </div>
+
+     
+</div>
+
+
+
+      </div>											   
+
+          <center>
+        <button type="submit" class="btn btn-primary">Prédire !</button>
+          </center>
+    </form>
+
   </div>
 {% endblock %}
+
+<body>
+  {% block prediction %}{% endblock %}
+</body>
