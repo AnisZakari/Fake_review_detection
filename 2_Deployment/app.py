@@ -52,10 +52,7 @@ def get_prediction():
 
 
     if (all_values_ok) & (len_value >10):
-        label, proba_fake = get_prev_full(review, float(photos_for_review), float(rating), float(user_friends_count), float(user_reviews_count), float(restaurant_average_rating), float(restaurant_reviews_count), threshold = 0.5)
-        
-            label = 0
-        
+        label, proba_fake = get_prev_full(review, float(photos_for_review), float(rating), float(user_friends_count), float(user_reviews_count), float(restaurant_average_rating), float(restaurant_reviews_count), float(restaurant_expensiveness), threshold = 0.5)
         if label == 1:
             r = "Cette review est probablement fausse " # + "avec une probabilité de " + str(round(proba_fake,3))
         if label == 0:          
